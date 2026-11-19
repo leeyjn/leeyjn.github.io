@@ -2,7 +2,7 @@
 
 Personal portfolio for Revenue & Business Operations.
 
-Live: https://eugenelee-coder.github.io/
+Live: https://leeyjn.github.io/
 
 Static HTML, CSS and JavaScript. Published with GitHub Pages from the main branch.
 
